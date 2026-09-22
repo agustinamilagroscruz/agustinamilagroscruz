@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hola, soy Agustina 👋
 
-<!--
-**agustinamilagroscruz/agustinamilagroscruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de segundo año de la **Licenciatura en Gestión de Tecnología de la Información (Sistemas)** en UADE y tengo formación previa en Programación en UTN.
 
-Here are some ideas to get you started:
+Actualmente trabajo en **Soporte IT y Mesa de Ayuda** y, en paralelo, continúo formándome en **Desarrollo de Software y Sistemas**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+* Estudiante de Licenciatura en Sistemas
+* Experiencia profesional en Soporte IT y Mesa de Ayuda
+* Formación en Desarrollo de Software
+* Interés en Desarrollo Backend y Sistemas
+* Buscando oportunidades de Pasantía o Trainee en Tecnología
+
+## Tecnologías
+
+* **Lenguajes:** Java, Python, SQL, R
+* **Desarrollo:** Programación Orientada a Objetos, Backend, CRUD
+* **Bases de Datos:** MySQL, DER/MER, Normalización 3NF
+* **Datos:** Power BI, Análisis Exploratorio de Datos
+* **Herramientas:** Git, GitHub, MySQL Workbench, phpMyAdmin, PowerShell
+* **Sistemas y Soporte:** Windows, Linux Ubuntu, Microsoft 365, Jira Service Management
+* **Metodologías:** Scrum, Kanban
+
+## Proyectos
+
+### Desarrollo de Software Backend con Java y MySQL
+
+Proyecto académico orientado a la gestión de usuarios y credenciales.
+
+Trabajé con Java, Programación Orientada a Objetos, SQL, MySQL, CRUD, modelado de bases de datos y Git.
+
+### Análisis de Datos con R y Power BI
+
+Proyecto académico de análisis y visualización de datos.
+
+Trabajé con R para la limpieza y transformación de datos y con Power BI para desarrollar paneles y presentar resultados.
+
+## Actualmente
+
+Estoy buscando una oportunidad de **Pasantía o Trainee en Tecnología**, principalmente en Desarrollo de Software, Sistemas o Soporte IT.
+
+Quiero seguir aprendiendo, participar en proyectos reales y crecer profesionalmente dentro del área de tecnología.
