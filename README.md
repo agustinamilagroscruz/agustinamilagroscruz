@@ -4,7 +4,7 @@ Soy estudiante de segundo año de la **Licenciatura en Gestión de Tecnología d
 
 Actualmente trabajo en **Soporte IT y Mesa de Ayuda** y, en paralelo, continúo formándome en **Desarrollo de Software y Sistemas**.
 
-## Sobre mí
+## Acerca de mí
 
 * Estudiante de Licenciatura en Sistemas
 * Experiencia profesional en Soporte IT y Mesa de Ayuda
